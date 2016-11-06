@@ -21,3 +21,106 @@ h2 {
   font-style: medium;
   font-family: "Roboto", "Arial", sans-serif;
 }
+
+                    /* ========== Спрайты ========== */
+
+/*
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-basket {
+    width: 21px;
+    height: 20px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-basket-ful {
+    width: 21px;
+    height: 20px;
+    background-position: -5px -35px;
+}
+
+.sprite-icon-feature-cow {
+    width: 48px;
+    height: 49px;
+    background-position: -5px -65px;
+}
+
+.sprite-icon-feature-icecream {
+    width: 49px;
+    height: 49px;
+    background-position: -5px -124px;
+}
+
+.sprite-icon-feature-leaflet {
+    width: 49px;
+    height: 49px;
+    background-position: -5px -183px;
+}
+
+.sprite-icon-feature-thermometer {
+    width: 48px;
+    height: 49px;
+    background-position: -5px -242px;
+}
+
+.sprite-icon-heart {
+    width: 15px;
+    height: 13px;
+    background-position: -5px -301px;
+}
+
+.sprite-icon-login {
+    width: 21px;
+    height: 19px;
+    background-position: -5px -324px;
+}
+
+.sprite-icon-login-hover {
+    width: 21px;
+    height: 19px;
+    background-position: -5px -353px;
+}
+
+.sprite-icon-loupe {
+    width: 17px;
+    height: 17px;
+    background-position: -5px -382px;
+}
+
+.sprite-icon-loupe-hover {
+    width: 17px;
+    height: 17px;
+    background-position: -5px -409px;
+}
+
+.sprite-icon-social-fb {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -436px;
+}
+
+.sprite-icon-social-inst {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -478px;
+}
+
+.sprite-icon-social-tw {
+    width: 33px;
+    height: 32px;
+    background-position: -5px -520px;
+}
+
+.sprite-icon-social-vk {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -562px;
+}
+
+
+
+*/
