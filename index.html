@@ -260,5 +260,21 @@
         </footer>
       </div>
     </div>
+    <div class="modal-feedback">
+      <button class="modal-feedback-close" type="button">Закрыть</button>
+      <h2 class="modal-feedback-title">Мы обязательно вам ответим!</h2>
+      <form class="form-feedback" action="https://echo.htmlacademy.ru" method="post">
+        <div class="modal-feedback-cell">
+          <input class="field-text modal-feedback-field" type="text" name="name" id="feedback-name" placeholder="Как ваc зовут?">
+          <label for="feedback-name">Как ваc зовут?</label>
+        </div>
+        <div class="modal-feedback-cell">
+          <input class="field-text modal-feedback-field" type="text" name="email" id="feedback-email" placeholder="Ваша почта для ответа?">
+          <label for="feedback-email">Ваша почта для ответа?</label>
+        </div>
+        <textarea class="field-text modal-feedback-field" name="comments" rows="5" placeholder="Напишите что-нибудь..."></textarea>
+        <button class="btn btn-feedback" type="submit">Отправить</button>
+      </form>
+    </div>
   </body>
 </html>
